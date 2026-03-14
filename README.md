@@ -14,7 +14,7 @@ Welcome to my portfolio website! This project is a simple two-page site that inc
 
 ## How to View
 
-You can access my portfolio website by visiting [Link] Feel free to explore the content and get in touch!
+You can access my portfolio website by visiting [ https://bdu14829.github.io/portfolio-simple-website/] Feel free to explore the content and get in touch!
 
 ##Contributing
 
